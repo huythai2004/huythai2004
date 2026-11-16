@@ -37,6 +37,4 @@ Project	Description	Tech
 Grocery Store Management System	Management system for a real grocery store: POS, dashboard, revenue reports, real-time notifications (SSE), VietQR payment. Graduation project.	Spring Boot · React · MySQL · SSE
 INSPIC	Photography concept marketplace with AI semantic search, photobooks and subscriptions. Deployed to production, 361 active users.	Spring Boot · React · Redis · OpenAI Embedding
 E-commerce Management System	Solo end-to-end online store: auth, product CRUD with Cloudinary CDN, cart/order flow, VNPay payment, OTP via Gmail SMTP.	Spring Boot · React · MySQL · Cloudinary
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=huythai2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huythai2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/> </p>
 <p align="center">💬 Open to <b>Java Backend Developer</b> opportunities. Feel free to reach out!</p>
